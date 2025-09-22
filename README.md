@@ -4,7 +4,7 @@ This project is an interactive educational website that teaches the concept of D
 
 ## Live Demo
 
-Visit the site: [AI Transparency Dashboard](https://assignment-1-prashanthtalwarr.vercel.app)
+Visit the site: [AI Transparency Dashboard](https://assignment-1-psi-rouge.vercel.app/)
 
 ## Project Overview
 
@@ -69,7 +69,7 @@ The project was deployed using the following steps:
 1. Created a GitHub repository at [PrashanthTalwarr/Assignment-1](https://github.com/PrashanthTalwarr/Assignment-1)
 2. Pushed the HTML code to the repository
 3. Connected the repository to Vercel for automatic deployment
-4. The site is now live and automatically updates when changes are pushed to GitHub
+4. The site is now live at [https://assignment-1-psi-rouge.vercel.app/](https://assignment-1-psi-rouge.vercel.app/) and automatically updates when changes are pushed to GitHub
 
 ## Learning Outcomes
 
